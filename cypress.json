@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://andalm.github.io/color-pallete/",
+    "chromeWebSecurity": false,
+    "retries": { 
+        "runMode": 3, 
+        "openMode": 3 
+    }
+}

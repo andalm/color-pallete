@@ -1,0 +1,24 @@
+{
+  "name": "color-pallete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "color.js",
+  "dependencies": {
+    "jquery.json-viewer": "^1.4.0",
+    "resemblejs": "^3.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andalm/color-pallete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andalm/color-pallete/issues"
+  },
+  "homepage": "https://github.com/andalm/color-pallete#readme"
+}
